@@ -1,0 +1,1 @@
+An implementation of a real-time video recorder and player; it supports image formats like jpeg and mpeg, and audio formats including vorbis, alaw, and mulaw. The default encoding file format is .mkv
